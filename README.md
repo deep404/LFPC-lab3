@@ -1,7 +1,7 @@
 # LFPC-lab3
 This is laboratory Nr.3 to the "LFPC" subject at university. The code converts Context Free Grammar to the Chomsky Normal Form
 
-##### To find the CNF of CFG you should write your grammar in the grammar.txt file. There is already written an example. The grammar you write in the file must respect this form:
+#### To find the CNF of CFG you should write your grammar in the grammar.txt file. There is already written an example. The grammar you write in the file must respect this form:
 1. Write all terminal symbols, one per line
 2. After you finish writing the terminal symbols write 'next'
 3. Next write all nonterminal symbols, one per line
@@ -11,4 +11,4 @@ This is laboratory Nr.3 to the "LFPC" subject at university. The code converts C
 7. Save the grammar.txt
 
 
-##### Every block in Main.
+#### Every block in Main.
