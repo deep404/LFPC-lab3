@@ -11,16 +11,16 @@ This is laboratory Nr.3 to the "LFPC" subject at university. The code converts C
 7. Save the grammar.txt
 
 #### Example:
-####a
-####b
-####next
-####S
-####A
-####B
-####next
-####S -> aA
-####A -> bB
-####B -> ab
-####next
+#### a
+#### b 
+#### next
+#### S
+#### A
+#### B
+#### next
+#### S -> aA
+#### A -> bB
+#### B -> ab
+#### next
 
 #### Every block in Main.
