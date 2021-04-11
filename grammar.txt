@@ -1,0 +1,23 @@
+a
+b
+next
+S
+A
+B
+C
+D
+next
+S -> aB
+S -> bA
+S -> A
+A -> B
+A -> Sa
+A -> bBA
+A -> b
+B -> b
+B -> bS
+B -> aD
+B -> e
+D -> AA
+C -> Ba
+next
